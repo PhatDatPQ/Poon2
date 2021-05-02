@@ -10,4 +10,4 @@ colour
 pyparsing
 gitpython
 appdirs
-git+https://github.com/we711111/eculib.git
+git+https://github.com/phatdatpq/eculib.git
